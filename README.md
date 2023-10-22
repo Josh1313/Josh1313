@@ -7,7 +7,7 @@ Here's the deal: I'm all about collaborating with awesome folks like you! Togeth
 
 Whether you need a helping hand or want to cook up some fantastic projects together, I'm here for you! Drop me a line, and let's embark on this thrilling journey of data science and discovery! 📩🔍
 
-- 📫 How to reach me, Feel free to reach out to my email anytime, and as soon as I receive it, I'll reply as quickly as possible.(lic_martinez827@gmail.com)
+- 📫 How to reach me, Feel free to reach out to my email anytime, and as soon as I receive it, I'll reply as quickly as possible.(licmartinez827@gmail.com)
 -   SPANISH
 👋 ¡Hola, soy @Josh1313!
 👀 Realmente me apasiona ayudar a las personas a comprender los fundamentos del aprendizaje automático en Python, sin importar su experiencia en programación. Además, con mi formación en negocios, tengo experiencias únicas para compartir con aquellos que buscan convertirse en científicos de datos y mejorar sus negocios. Así que, si te interesa, ¡unámonos y hagamos del aprendizaje algo divertido y emocionante! No dudes en ponerte en contacto, ¡y embarquemos juntos en esta emocionante aventura! 😄🚀
